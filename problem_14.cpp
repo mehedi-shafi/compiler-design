@@ -1,3 +1,4 @@
+// Write a program to generate first and follow from given rules.
 #include <bits/stdc++.h>
 #include<stdio.h>
 #include<string.h>
